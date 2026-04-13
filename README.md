@@ -1,5 +1,4 @@
-# market_survey_chicken
-Projet 11 - Produisez une étude de marché avec R ou Python
+# Projet 11 - Produisez une étude de marché avec R ou Python
 
 Scénario :
 
